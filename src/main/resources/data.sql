@@ -1,0 +1,1 @@
+insert into user values(101, 'agupta8497g@gmail.com', 'Abhishek', 'Gupta', 'admin', 'ssn101', 'agupta');
